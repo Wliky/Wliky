@@ -1,7 +1,20 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);生以悦己 非困于人&center=true&size=27"> </a> </h1>
+<!-- 
+* @Wliky
+-->
 
-![](https://raw.githubusercontent.com/TimeonFly/TimeonFly/main/contribution-snake/github-contribution-grid-snake.svg)
+<!-- 个人简介-->
+<!-- metrics 基础资料 -->
+<img src="/github-metrics.svg" />
 
-# 👋 你好
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<!-- <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Peter-JXL&theme=light&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Peter-JXL&theme=dark&hide_border=true" />
+</picture> -->
 
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=print('Hellow+Feature!'))
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+</picture>
