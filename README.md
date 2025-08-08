@@ -3,16 +3,15 @@
 -->
 ### Hi there 👋
 <!-- 打字机效果 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79C94&width=435&lines=Live+for+yourself++Not+for+others;%E7%94%9F%E4%BB%A5%E6%82%A6%E5%B7%B1+%E9%9D%9E%E5%9B%B0%E4%BA%8E%E4%BA%BA)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C7AD&width=435&lines=Live+for+yourself;Not+for+others)](https://git.io/typing-svg)
 <!-- 个人简介 -->
 #### Platform & Tools
 <!-- Moe-counter访问计数 -->
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@Wliky?theme=rule34" height="100" align="right"></a>
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/MacBook-M4%20Pro-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://support.apple.com/en-us/121553)
+[![](https://img.shields.io/badge/MacBook-M4%20Pro-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/macbook-pro/)
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)   
-[![](https://img.shields.io/badge/XiaoMi-13-2E77BC?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.samsung.com/us/app/mobile/galaxy-s20-5g/)
+[![](https://img.shields.io/badge/XiaoMi-13-2E77BC?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.mi.com/xiaomi-13)
 [![](https://img.shields.io/badge/iPhone-15%20Pro-999999?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/)   
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
