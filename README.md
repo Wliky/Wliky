@@ -1,7 +1,7 @@
 <!-- 
 * @Wliky
 -->
-### Hi there 👋
+### Hi！I'm Wliky👋
 <!-- 打字机效果 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C7AD&width=435&lines=Live+for+yourself;Not+for+others)](https://git.io/typing-svg)
 <!-- 个人简介 -->
