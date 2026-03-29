@@ -11,8 +11,8 @@
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/MacBook-M4%20Pro-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/macbook-pro/)
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)   
-[![](https://img.shields.io/badge/XiaoMi-13-2E77BC?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.mi.com/xiaomi-13)
-[![](https://img.shields.io/badge/iPhone-15%20Pro-999999?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/)   
+[![](https://img.shields.io/badge/XiaoMi-17%20pro%20max-2E77BC?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.mi.com/prod/xiaomi-17-pro-max)
+[![](https://img.shields.io/badge/iPhone-17%20Pro%20max-999999?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/iphone-17-pro/)   
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 #### Languages & Frameworks
